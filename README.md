@@ -14,3 +14,11 @@
 #### [bigmart sales prediction](https://github.com/pouniq/bigmart-sales/blob/main/bigmart_sales_data02.1.ipynb)
 - a regression model that i used XGBRegressor model
 - the accuracy of this model is around 60%
+
+
+
+#### [adult income](https://github.com/pouniq/adult-income/blob/main/adult_income_(classification_problem).ipynb)
+- a classification for a individual having a income more than 50k or less
+- we used few models to having a better results.
+- you can see each accuracy rate in the notebook
+
